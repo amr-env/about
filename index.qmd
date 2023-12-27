@@ -17,18 +17,18 @@ options(width=120) # keep this to trigger proper date in header
 
 # Purpose
 
-The contents provided on https://github.com/amr-env is meant to support
+The contents provided on https://amr-env.github.io is meant to support
 research on antimicrobial resistance with a focus on environmental
 settings. The contents reflects work in progress and the information
 provided may not be sufficiently validated. Consequently, the
 information is not intended to be used for any serious purpose or
 application. In case of doubt, please contact the maintainer of the page
-https://github.com/amr-env (see contact details below) or the involved
+https://amr-env.github.io (see contact details below) or the involved
 researchers (contact details may be provided as per sub-directory).
 
 # Responsibilities / Contact
 
-The page https://github.com/amr-env and its sub-directories are
+The page https://amr-env.github.io and its sub-directories are
 managed and maintained by David Kneis. If you have any questions
 regarding contents or technical issues, please contact:
 
@@ -44,7 +44,7 @@ regarding contents or technical issues, please contact:
 
 # Data protection declaration
 
-The service provided on https://github.com/amr-env and
+The service provided on https://amr-env.github.io and
 its sub-directories is not intended to process personal data. In
 particular, within the responsibilities of the maintainer (David Kneis,
 contact details above), no tracking cookies are used to record or
@@ -59,7 +59,7 @@ object to the processing. In this regard, you can contact the maintainer
 
 # Accessibility statement
 
-This accessibility statement applies to https://github.com/amr-env and
+This accessibility statement applies to https://amr-env.github.io and
 its sub-directories. This website is managed and maintained by 
 David Kneis (contact details above). The maintainer is committed to
 making all contents accessible, in accordance with the respective
@@ -68,7 +68,7 @@ German laws (BfWebG, BITV 2.0) implementing EU Directive 2016/2102.
 This statement was prepared and last reviewed on 2023-12-23 by David
 Kneis based on a self-assessment.
 
-The contents of https://github.com/amr-env and
+The contents of https://amr-env.github.io and
 its sub-directories is partially compliant with the indicated legal
 requirements. In particular, outcomes of ongoing research in the form
 of graphics and scientific documents are considered preliminary. Such
