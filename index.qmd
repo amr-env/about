@@ -1,8 +1,21 @@
-Legal notice and accessibility statement
-====================
+---
+title: 'Imprint and accessibility statement'
+author: "David Kneis (firstname.lastname @ tu-dresden.de)"
+date: "`r Sys.Date()`"
+format:
+  html:
+    number-sections: true
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    embed-resources: true    
+---
 
-Purpose
---------------------
+```{r echo=FALSE}
+options(width=120) # keep this to trigger proper date in header
+```
+
+# Purpose
 
 The contents provided on https://github.com/amr-env is meant to support
 research on antimicrobial resistance with a focus on environmental
@@ -13,27 +26,23 @@ application. In case of doubt, please contact the maintainer of the page
 https://github.com/amr-env (see contact details below) or the involved
 researchers (contact details may be provided as per sub-directory).
 
-Responsibilities
---------------------
+# Responsibilities / Contact
 
 The page https://github.com/amr-env and its sub-directories are
 managed and maintained by David Kneis. If you have any questions
 regarding contents or technical issues, please contact:
 
-```
-Dr. David Kneis
-Institute of Hydrobiology
-Technische Universität Dresden
-01062 Dresden
-Germany
+| Dr. David Kneis
+| Institute of Hydrobiology
+| Technische Universität Dresden
+| 01062 Dresden
+| Germany
+| 
+| Email: firstname.lastname@tu-dresden.de
+|        (replace firstname by 'David' and lastname by 'Kneis')
+| Phone: +49 351 463 - 32 32 9
 
-Email: firstname.lastname@tu-dresden.de
-       (replace firstname by 'David' and lastname by 'Kneis')
-Phone: +49 351 463 - 32 32 9
-```
-
-Data protection declaration
------------------------
+# Data protection declaration
 
 The service provided on https://github.com/amr-env and
 its sub-directories is not intended to process personal data. In
@@ -48,8 +57,7 @@ right to erasure and restriction of processing as well as the right to
 object to the processing. In this regard, you can contact the maintainer
 (David Kneis, contact details above) at any time.
 
-Accessibility statement
-------------------------
+# Accessibility statement
 
 This accessibility statement applies to https://github.com/amr-env and
 its sub-directories. This website is managed and maintained by 
