@@ -17,20 +17,20 @@ options(width=120) # keep this to trigger proper date in header
 
 # Purpose
 
-The contents provided on <https://amr-env.github.io> and its sub-directories
+The contents provided on the sub-pages of *https://amr-env.github.io*
 is meant to support research on antimicrobial resistance with a focus on
 environmental settings. The contents reflects work in progress and the
 information provided may not be sufficiently validated. Consequently, the
 information is not intended to be used for any serious purpose or
-application. In case of doubt, please contact the maintainer of the page
-<https://amr-env.github.io> (David Kneis, contact details below) or the involved
+application. In case of doubt, please contact the maintainer of
+*https://amr-env.github.io* (David Kneis, contact details below) or the involved
 researchers (contact details may be provided as per sub-directory).
 
 # Legal notice
 
 ## Responsibility
 
-The page <https://amr-env.github.io> and its sub-directories are
+The sub-pages of *https://amr-env.github.io* are
 managed and maintained by David Kneis. If you have any questions
 regarding contents or technical issues, please contact:
 
@@ -46,11 +46,10 @@ regarding contents or technical issues, please contact:
 
 ## Data protection declaration
 
-The service provided on <https://amr-env.github.io> and
-its sub-directories is not intended to process personal data. In
-particular, within the responsibilities of the maintainer (David Kneis,
-contact details above), no tracking cookies are used to record or
-analyze user movement and behavior on the websites. 
+The services provided on sub-pages of *https://amr-env.github.io* are not
+intended to process personal data. In particular, within the responsibilities
+of the maintainer (David Kneis, contact details above), no tracking cookies
+are used to record or analyze user movement and behavior on the websites. 
 
 In accordance with German law (Art. 6 para. 1 letter f GDPR) you have
 the right to obtain information on the data processed concerning you
@@ -61,8 +60,8 @@ object to the processing. In this regard, you can contact the maintainer
 
 # Accessibility
 
-This accessibility statement applies to <https://amr-env.github.io> and
-its sub-directories. This website is managed and maintained by 
+This accessibility statement applies to the sub-pages of 
+*https://amr-env.github.io*. These websites are managed and maintained by 
 David Kneis (contact details above). The maintainer is committed to
 making all contents accessible, in accordance with the respective
 German laws (BfWebG, BITV 2.0) implementing EU Directive 2016/2102.
@@ -70,12 +69,11 @@ German laws (BfWebG, BITV 2.0) implementing EU Directive 2016/2102.
 This statement was prepared and last reviewed on 2023-12-23 by David
 Kneis based on a self-assessment.
 
-The contents of <https://amr-env.github.io> and
-its sub-directories is partially compliant with the indicated legal
-requirements. In particular, outcomes of ongoing research in the form
+The contents of the sub-pages of *https://amr-env.github.io* is partially
+compliant with the indicated legal requirements.
+In particular, outcomes of ongoing research in the form
 of graphics and scientific documents are considered preliminary. Such
 preliminary items are not optimized for accessibility because of
 disproportionate effort. If you are interested in any content being
 currently inaccessible, please contact the maintainer, David Kneis 
-(contact details above) to find a solution that suits your particular
-needs.
+(contact details above) to find a solution that suits your particular needs.
