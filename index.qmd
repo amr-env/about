@@ -8,7 +8,7 @@ format:
     toc: true
     toc-depth: 3
     toc-location: left
-    embed-resources: true    
+    embed-resources: true
 ---
 
 ```{r echo=FALSE}
@@ -22,7 +22,9 @@ is meant to support research on antimicrobial resistance with a focus on
 environmental settings. The contents reflects work in progress and the
 information provided may not be sufficiently validated. Consequently, the
 information is not intended to be used for any serious purpose or
-application. In case of doubt, please contact the maintainer of
+application. In that regard, the liability disclaimer of TU Dresden, Germany (see *https://tu-dresden.de/impressum*) applies.
+
+In case of doubt, please contact the maintainer of
 *https://amr-env.github.io* (David Kneis, contact details below) or the involved
 researchers (contact details may be provided as per sub-directory).
 
@@ -43,6 +45,8 @@ regarding contents or technical issues, please contact:
 | Email: firstname.lastname@tu-dresden.de
 |        (replace firstname by 'David' and lastname by 'Kneis')
 | Phone: +49 351 463 - 32 32 9
+
+Since the maintainer is affiliated with TU Dresden, the legal notice found at *https://tu-dresden.de/impressum* applies.
 
 ## Data protection declaration
 
@@ -66,6 +70,8 @@ David Kneis (contact details above). The maintainer is committed to
 making all contents accessible, in accordance with the respective
 German laws (BfWebG, BITV 2.0) implementing EU Directive 2016/2102.
 
+## Compliance status
+
 This statement was prepared and last reviewed on 2023-12-23 by David
 Kneis based on a self-assessment.
 
@@ -77,3 +83,13 @@ preliminary items are not optimized for accessibility because of
 disproportionate effort. If you are interested in any content being
 currently inaccessible, please contact the maintainer, David Kneis 
 (contact details above) to find a solution that suits your particular needs.
+
+## Enforcement procedure
+If we do not process your feedback satisfactorily from your point of view, you can contact the Enforcement Body of the State of Saxony (Germany):
+
+| Office of the Commissioner of the Saxon State Government for the Affairs of Persons with Disabilities
+| Albertstraße 10, 01097 Dresden, Germany
+| Postal address: Archivstraße 1, 01097 Dresden, Germany
+| Email: info.<!-- @ -->behindertenbeauftragter@sk.<!-- @ -->sachsen.<!-- @ -->de
+| Phone: +49 351 564-12161
+| Web: https://www.inklusion.sachsen.de
